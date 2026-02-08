@@ -1,0 +1,28 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.vercel
+
+# Backend
+backend/target/
+backend/.env
+backend/.DS_Store
+backend/*.log
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test-otp-config.sh
+
+# Documentation (optional - remove if you want to include)
+# *.md
